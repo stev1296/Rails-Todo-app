@@ -2,3 +2,26 @@
   Place all the styles related to the matching controller here.
   They will automatically be included in application.css.
 */
+
+h1{
+  color: blue;
+  background-color: lightgrey;
+  font-size: 3em;
+  text-align: center;
+}
+
+
+strong, th{
+  font-size: 2em;
+  color: grey;
+}
+
+tr{
+  color: darkblue;
+  background-color: lightblue;
+}
+
+table{
+  background-color: black;
+
+}
